@@ -57,9 +57,9 @@ while(checkValidYear == False):
         print('Por valor digite um valor entre 1000 e 9999')
 
 # Final Results
-print('>>> Resultado padrão Brasileiro:')
 print('>>> A data digitada foi {}/{}/{}.'.format(day,month,year))
+print('>>> Resultado padrão Brasileiro:')
+print('>>> A data digitada é {} de {} de {}.'.format(day, months[month-1][portugueseDate],year))
 print('>>> Resultado padrão americano:')
 print('>>> The Date inputed is {} {}th, {}.'.format(months[month-1][englishDate],day,year))
-
 #End Code
