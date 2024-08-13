@@ -27,4 +27,10 @@ Repositorio de contencao de aprendizado Python e de utilizacao de conceitos de c
     entao subi somente o arquivo app.py para poder realizar a parte de revisao da branch como se fosse em 
     ambiente real de um projeto.
 
+# Como serao executados os Desafios
 
+  - Todos os Desafios estao sendo criados Issues no projeto.
+  - Para cada Desafio sera criado Branch e sera criado um arquivo com o nome
+  do desafio para ficar mais organizado.
+  - Os desafios aquisao bastante simples pois este projeto aqui não esta focando na dificuldade
+  do algortimo mais sim na utilização da ferramenta de controle e gerenciamento das tarefas simulando experiencia real utilizando boas praticas Devops. 
