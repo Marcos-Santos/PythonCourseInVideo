@@ -1,5 +1,6 @@
 # PythonCourseInVideo
 Repositorio de contencao de aprendizado Python e de utilizacao de conceitos de ciclo de vida de software e metodologias Ageis e uso real de ferramentas Git
+![image](https://github.com/user-attachments/assets/bdf406e3-a40c-4608-853d-12b5c09832f4)
 
 # Sobre Mim
  -Marcos Alexandre 
